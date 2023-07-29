@@ -7,7 +7,8 @@ import { CssBaseline } from '@mui/material';
 function HomePage() {
     return (
         <>
-            <Header></Header>
+            <div><Header ></Header></div>
+            
             <br />
             <br />
             <>

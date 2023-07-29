@@ -15,9 +15,9 @@ const Header = () => {
                 <Button component={Link} to="/schedule" color="inherit" >
                     Schedule
                 </Button>
-                {/* <Button component={Link} to="/dashboard" color="inherit" style={{ marginLeft: 'auto' }}>
-          Dashboard
-        </Button> */}
+                <Button component={Link} to="/players" color="inherit" >
+          Players List
+        </Button>
             </Toolbar>
         </AppBar>
     );
